@@ -1,3 +1,6 @@
-#define INC_10_LIB_H
+#ifndef ESERCIZIO_6_DEFINITIVO_LIB_H
+#define ESERCIZIO_6_DEFINITIVO_LIB_H
 
-bool numeriprimi (int, int);
+bool num_prim(int n, int i);
+
+#endif //ESERCIZIO_6_DEFINITIVO_LIB_H
